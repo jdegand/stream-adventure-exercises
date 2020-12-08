@@ -1,0 +1,23 @@
+{
+  "name": "stream-adventure-exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "beep_boop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concat-stream": "^2.0.0",
+    "duplexer2": "^0.1.4",
+    "split2": "^3.2.2",
+    "stream-combiner": "^0.2.2",
+    "tar": "^6.0.5",
+    "through2": "^4.0.2",
+    "trumpet": "^1.7.2",
+    "ws": "^7.4.0",
+    "zlib": "^1.0.5"
+  }
+}
